@@ -1,4 +1,4 @@
-# RL_CargameAI_v1
+# RL-CarGameAI-v1
 A Reinforcement Learning car game AI
 
 This is a Deep Neural Network based Reinforcement Learning program that successfully
