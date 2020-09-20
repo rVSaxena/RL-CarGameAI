@@ -21,3 +21,7 @@ For v1, the environment was retricted so as to
 2. Apply forces in directions either parallel or transverse to the direction of the velocity of the car.
 
 The aim for the agent was to navigate at this constant speed without colliding.
+
+
+### Trained AI gameplay:
+![](play.gif)
