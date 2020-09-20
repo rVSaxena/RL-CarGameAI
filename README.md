@@ -5,7 +5,7 @@ This is a Deep Neural Network based Reinforcement Learning program that successf
 plays game_v1.
 
 ## The game: 
-A numpy based simple physics game where a point unit mass is to be navigated on a course.
+A staggeringly simple physics game where a point unit mass is to be navigated on a course.
 The course has 2 types of positions: On-track and Off-track. The aim is to never collide with the on-track/off-track interface,
 and drive.
 
