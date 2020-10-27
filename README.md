@@ -1,8 +1,7 @@
 # RL-CarGameAI-v1
 A Reinforcement Learning car game AI
 
-This is a Deep Neural Network based Reinforcement Learning program that successfully
-plays game_v1.
+This is a Deep Neural Network based Reinforcement Learning program that successfully a car game called game_v1.
 
 ## The game: 
 A staggeringly simple physics game where a point unit mass is to be navigated on a course.
