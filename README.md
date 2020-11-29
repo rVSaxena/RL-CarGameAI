@@ -21,6 +21,11 @@ For v1, the environment was retricted so as to
 
 The aim for the agent was to navigate at this constant speed without colliding.
 
+## v2 specifics
+For v2, the restrictions of v1 were relaxed.
+1. We affix the max speed allowed and the maximum force magnitudes. 
+1. The controls available are throttle and steering, both between -1 and 1, qunatized.
+
 
 ### Trained AI gameplay:
 ![](play.gif)
