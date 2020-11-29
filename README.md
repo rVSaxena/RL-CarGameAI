@@ -27,5 +27,9 @@ For v2, the restrictions of v1 were relaxed.
 1. The controls available are throttle and steering, both between -1 and 1, qunatized.
 
 
-### Trained AI gameplay:
+### Trained AI (v1) gameplay:
 ![](play.gif)
+
+### Trained AI (v2) gameplay
+Here is another low ~~quality~~ fps gif from v2, on a 2D version of spa-francorchamps
+![](gif.gif)
