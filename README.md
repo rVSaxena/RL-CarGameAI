@@ -31,5 +31,6 @@ For v2, the restrictions of v1 were relaxed.
 ![](play.gif)
 
 ### Trained AI (v2) gameplay
-Here is another low ~~quality~~ fps gif from v2, on a 2D version of spa-francorchamps
+Here is another low ~~quality~~ fps gif from v2, on a 2D version of spa-francorchamps<br><br>
+
 ![](gif.gif)
